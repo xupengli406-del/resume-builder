@@ -60,3 +60,13 @@ Skill 不含模型、图像生成服务、账号或 API Key。若环境不支持
 把个人资料保存在自己的简历项目中；不要上传到本仓库的 Issues、Pull Requests 或示例目录。脚本在本机读取材料并渲染，不把简历上传到服务器；若另行使用云端 Agent 或图像服务，材料由所选服务处理。
 
 照片流程沿用作者独立发布的 `american-business-headshot`，许可保留在 [内置流程目录](references/american-business-headshot/LICENSE)。
+
+## 参与改进
+
+欢迎 Fork 并提交 Pull Request（PR），无需互关或提前申请协作者权限。请向本仓库的 `main` 分支提交，说明修改内容和验证结果；具体见 [贡献指南](CONTRIBUTING.md)。
+
+## 许可证
+
+本项目采用 [MIT 许可证](LICENSE)，允许使用、修改、再发布和商业使用；复制或分发本项目或其主要部分时，须保留版权和许可声明。欢迎基于本项目继续开发，也欢迎通过 PR 贡献改进。
+
+内置商务照流程保留其原有 MIT 许可；第三方依赖遵循各自的许可证。

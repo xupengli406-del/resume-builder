@@ -1,6 +1,7 @@
 {
   "name": "resume-builder-skill",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "license": "MIT",
   "private": true,
   "description": "Portable single-page Chinese resume skill",
   "type": "module",
